@@ -2,8 +2,8 @@
 Scale=1
 2412=H
 
-Img.W=3840
-Img.H=2160
+Img.W=2560
+Img.H=1530
 
 BlurBackground=1
 Background=1
@@ -30,4 +30,4 @@ ThreeGrad.1=244, 22, 48
 LastGrad.0=9, 191, 119
 LastGrad.1=66, 209, 121
 
-Cache.Wallpaper=C:\Users\enhan\Pictures\Graphics\Wallpapers\Material.jpg
+Cache.Wallpaper=C:\Users\enhan\Pictures\Graphics\Wallpapers\modern-black-background-2k.jpg
